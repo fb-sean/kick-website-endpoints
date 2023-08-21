@@ -1,5 +1,8 @@
 # kick-website-endpoints
 ## A list of known endpoints of kick.com. (Open a pull request to add or remove some.)
+Links:
+- https://kickbot.gg?utm_source=github-kick-endpoints
+- https://sattler.dev?utm_source=github-kick-endpoints
 
 GET documentation
 
