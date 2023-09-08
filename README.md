@@ -1,8 +1,10 @@
 # kick-website-endpoints
 ## A list of known endpoints of kick.com. (Open a pull request to add or remove some.)
-Links:
+### Includes a list of all current known api routes too.
+
+## Links:
 - [Pusher Events of Kick](https://gist.github.com/Digital39999/ffe7df2bfc08797c2ba19d42e8f739a0)
-- [kickbot.gg](https://www.kickbot.gg?utm_source=github-kick-endpoints)
+- [Kick.com Discord Bot](https://www.kickbot.gg?utm_source=github-kick-endpoints)
 - [sattler.dev](https://sattler.dev?utm_source=github-kick-endpoints)
 
 GET documentation
@@ -498,4 +500,3 @@ GET nova-vendor/maatwebsite/laravel-nova-excel/download
 GET nova
 
 GET {fallbackPlaceholder}
-
