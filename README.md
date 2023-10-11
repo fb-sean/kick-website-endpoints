@@ -500,3 +500,19 @@ GET nova-vendor/maatwebsite/laravel-nova-excel/download
 GET nova
 
 GET {fallbackPlaceholder}
+
+## New API
+
+GET https://api.kick.com/private/v1/categories
+
+GET https://api.kick.com/private/v1/clips
+
+GET https://api.kick.com/private/v1/channels/:slug
+
+GET https://api.kick.com/private/v1/channels/:slug/clips
+
+GET https://api.kick.com/private/v1/livestreams
+
+GET https://api.kick.com/channels/:id/followers-count
+
+GET https://api.kick.com/private/v0/channels/:id/viewer-count
