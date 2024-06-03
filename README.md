@@ -2,6 +2,8 @@
 ## A list of known endpoints of kick.com. (Open a pull request to add or remove some.)
 ### Includes a list of all current known api routes too.
 
+### Check APP_LOGIN_FLOW.md for the way to login with a bot account. To use it for moderation purpose or integrations.
+
 ## Links:
 - [Pusher Events of Kick](https://gist.github.com/Digital39999/ffe7df2bfc08797c2ba19d42e8f739a0)
 - [Kick.com Discord Bot](https://kick.bot?utm_source=github-kick-endpoints)
