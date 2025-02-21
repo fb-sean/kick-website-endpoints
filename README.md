@@ -1,4 +1,13 @@
 # kick-website-endpoints
+
+# Info!
+> Kick now published their public API you can find that one at https://docs.kick.com 
+
+
+
+
+
+
 ## A list of known endpoints of kick.com. (Open a pull request to add or remove some.)
 ### Includes a list of all current known api routes too.
 
