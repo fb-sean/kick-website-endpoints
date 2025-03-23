@@ -15,6 +15,7 @@
 
 ## Links:
 - [Pusher Events of Kick](https://gist.github.com/Digital39999/ffe7df2bfc08797c2ba19d42e8f739a0)
+- [KICK-API-TYPES](https://github.com/fb-sean/kick-api-types)
 - [Kick.com Discord Bot](https://kick.bot?utm_source=github-kick-endpoints)
 - [sattler.dev](https://sattler.dev?utm_source=github-kick-endpoints)
 
